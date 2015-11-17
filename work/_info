@@ -1,0 +1,1249 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eand_gate
+Z0 w1447354224
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/me/Documents/GitHub/EECS-361-Group-14
+Z4 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd
+Z5 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd
+l0
+L5
+VU_Y]TlgZX3N<gl1:ZjH622
+!s100 9zM?`;meNomBE;big9UG12
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1447722420
+!i10b 1
+Z8 !s108 1447722420.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd|
+Z10 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Adataflow
+R1
+R2
+DEx4 work 8 and_gate 0 22 U_Y]TlgZX3N<gl1:ZjH622
+l14
+L13
+Vd[k?[?OzHDKLB[j[<6]@h0
+!s100 Wc2cnMoUL`Rn2T[ECHYDg0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate_32
+R0
+R1
+R2
+R3
+Z13 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd
+Z14 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd
+l0
+L5
+Ve3_4FiC7KKo76^^ZW`RA;2
+!s100 KSRcRaLU>DVF[looI[MAB1
+R6
+32
+Z15 !s110 1447722421
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd|
+Z17 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 and_gate_32 0 22 e3_4FiC7KKo76^^ZW`RA;2
+l14
+L13
+V<bAJA9cz_Xj[EEH5NMD^Y0
+!s100 7eGi4aE3j0c6RNWj8;hYn2
+R6
+32
+R15
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eand_gate_n
+R0
+R1
+R2
+R3
+Z18 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd
+Z19 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd
+l0
+L5
+VZDz=h^?4N8=QG_lZb8Y^N3
+!s100 BgW1<b848=U4b0Fm5IB4V0
+R6
+32
+R15
+!i10b 1
+Z20 !s108 1447722421.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd|
+Z22 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 10 and_gate_n 0 22 ZDz=h^?4N8=QG_lZb8Y^N3
+l17
+L16
+VcdaRWB<_e`=84b7fYYV0b0
+!s100 TlhKh<Ln2>7=AINQTiM_c3
+R6
+32
+R15
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Edec_n
+R0
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z24 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd
+Z25 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd
+l0
+L5
+V7iJ?jPYN_emZ4:^;hN;]G2
+!s100 TFYiE@E?[zcS;UYZJZ]e]0
+R6
+32
+R15
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd|
+Z27 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R23
+R1
+R2
+DEx4 work 5 dec_n 0 22 7iJ?jPYN_emZ4:^;hN;]G2
+l16
+L15
+V@Fb=@53n>MNEImDCn?Ze>0
+!s100 55g?PRCWKJcmYh6jzUGZ80
+R6
+32
+R15
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R11
+R12
+Edff
+R0
+R1
+R2
+R3
+Z28 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd
+Z29 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd
+l0
+L4
+VmKZ>[LGJ@mPeC8i@F[]]G1
+!s100 6RF6aKO;bLUdc^Uo1TlJA1
+R6
+32
+R15
+!i10b 1
+R20
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd|
+Z31 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 3 dff 0 22 mKZ>[LGJ@mPeC8i@F[]]G1
+l13
+L12
+V?G=X8dlZ@2I_O[J]5HOIT1
+!s100 YQ?Mf61<mPk;FAfQWmbPe2
+R6
+32
+R15
+!i10b 1
+R20
+R30
+R31
+!i113 1
+R11
+R12
+Edffr
+R0
+R1
+R2
+R3
+Z32 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd
+Z33 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd
+l0
+L4
+VJ64Bn0^0_^0mUSU<ZOo591
+!s100 8^h72ccPiicFMoll6;?B^1
+R6
+32
+R15
+!i10b 1
+R20
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd|
+Z35 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 4 dffr 0 22 J64Bn0^0_^0mUSU<ZOo591
+l13
+L12
+V_Uhmck]XK8N?fUm1<]knZ2
+!s100 [jSDjV[;ooEXI1fbj<kQH2
+R6
+32
+R15
+!i10b 1
+R20
+R34
+R35
+!i113 1
+R11
+R12
+Edffr_a
+R0
+R1
+R2
+R3
+Z36 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd
+Z37 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd
+l0
+L4
+VdP=DD7z<d9h=O[o6XL5N11
+!s100 Ae06@YlEN>^ZBC[J]R^j?2
+R6
+32
+R15
+!i10b 1
+R20
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd|
+Z39 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 6 dffr_a 0 22 dP=DD7z<d9h=O[o6XL5N11
+l17
+L16
+VI62cMXNa9hMQ88?5;TBh:2
+!s100 18jIoW:5CWgj6bjeXK^2W3
+R6
+32
+R15
+!i10b 1
+R20
+R38
+R39
+!i113 1
+R11
+R12
+Peecs361
+Z40 DPx4 work 13 eecs361_gates 0 22 Y`H6JLa]eolRP`lSh`[1R3
+R1
+R2
+R0
+R3
+8C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd
+FC:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd
+l0
+L8
+VI4EfZSWkki@;bjbI6[:m13
+!s100 8=Z1E6VmQF7PkYgUc4XzU2
+R6
+32
+R15
+!i10b 1
+R20
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd|
+!s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd|
+!i113 1
+R11
+R12
+Peecs361_gates
+R1
+R2
+R0
+R3
+8C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd
+FC:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd
+l0
+L4
+VY`H6JLa]eolRP`lSh`[1R3
+!s100 EFJF``Kkcd:<4LI@jVAPI3
+R6
+32
+Z41 !s110 1447722422
+!i10b 1
+Z42 !s108 1447722422.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd|
+!s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd|
+!i113 1
+R11
+R12
+Emux
+R0
+R40
+Z43 DPx4 work 7 eecs361 0 22 I4EfZSWkki@;bjbI6[:m13
+R1
+R2
+R3
+Z44 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd
+Z45 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd
+l0
+L5
+VzB3mFn]^WO1Q5f;oa5<:i1
+!s100 R7SGh1UNzgRXkDgUzi0Dn0
+R6
+32
+R41
+!i10b 1
+R42
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd|
+Z47 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd|
+!i113 1
+R11
+R12
+Astructural
+R40
+R43
+R1
+R2
+DEx4 work 3 mux 0 22 zB3mFn]^WO1Q5f;oa5<:i1
+l15
+L14
+V>1PeESFaHClS=zBGFdF772
+!s100 TMbaX=C3aUF9Pl?TK_bl20
+R6
+32
+R41
+!i10b 1
+R42
+R46
+R47
+!i113 1
+R11
+R12
+Emux_32
+R0
+R40
+R43
+R1
+R2
+R3
+Z48 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd
+Z49 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd
+l0
+L5
+VOlZhk[`?`GZQTV3Y4L@ZX0
+!s100 ciE_BzZP_7gaALUfNcf3V2
+R6
+32
+R41
+!i10b 1
+R42
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd|
+Z51 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd|
+!i113 1
+R11
+R12
+Astructural
+R40
+R43
+R1
+R2
+DEx4 work 6 mux_32 0 22 OlZhk[`?`GZQTV3Y4L@ZX0
+l15
+L14
+V7UHP=BdYn]NVWnMkCOB[F3
+!s100 iiT]gRaJ0BGA@1c7lKGZ;1
+R6
+32
+R41
+!i10b 1
+R42
+R50
+R51
+!i113 1
+R11
+R12
+Emux_n
+R0
+R1
+R2
+R3
+Z52 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd
+Z53 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd
+l0
+L4
+V?KK90]`1?K3cYmaZ@2ZiU2
+!s100 DhH_dWUkhZScmPX0PShL>1
+R6
+32
+R41
+!i10b 1
+R42
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd|
+Z55 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 5 mux_n 0 22 ?KK90]`1?K3cYmaZ@2ZiU2
+l17
+L16
+Vc:nT1[O:OUd7C:kd0;RQm2
+!s100 VOPJAGmKhfQ>L9L:P_FXf0
+R6
+32
+R41
+!i10b 1
+R42
+R54
+R55
+!i113 1
+R11
+R12
+Enand_gate
+R0
+R1
+R2
+R3
+Z56 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd
+Z57 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd
+l0
+L5
+VUJRIU4Oo2bb833MR;8eeK0
+!s100 `;YoNjg98=RO3KEUJb?JH2
+R6
+32
+R41
+!i10b 1
+R42
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd|
+Z59 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 9 nand_gate 0 22 UJRIU4Oo2bb833MR;8eeK0
+l14
+L13
+Vmc;dGB9PFB8Va]cJiKPnA3
+!s100 DdgXSJTenGYMFNYGk^j2^2
+R6
+32
+R41
+!i10b 1
+R42
+R58
+R59
+!i113 1
+R11
+R12
+Enand_gate_32
+R0
+R1
+R2
+R3
+Z60 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd
+Z61 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd
+l0
+L5
+VQ7HWC=HJVfdNKlmLIkMma2
+!s100 d7`oU3cRhD_iz]OR?aJbM0
+R6
+32
+Z62 !s110 1447722423
+!i10b 1
+Z63 !s108 1447722423.000000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd|
+Z65 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 12 nand_gate_32 0 22 Q7HWC=HJVfdNKlmLIkMma2
+l14
+L13
+VK]`eXcoP?:P;fL`IZDg_33
+!s100 5L7`cY6bRPYMYkmEYAg871
+R6
+32
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R11
+R12
+Enand_gate_n
+R0
+R1
+R2
+R3
+Z66 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd
+Z67 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd
+l0
+L5
+Vd^AhAU01S^7Y4JlPiBl:g3
+!s100 LMidV?0i^0NCQXjDDfE0j1
+R6
+32
+R62
+!i10b 1
+R63
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd|
+Z69 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 nand_gate_n 0 22 d^AhAU01S^7Y4JlPiBl:g3
+l17
+L16
+VhPSaT<<CzCS1C=bQ>Y:zY1
+!s100 5mzmEVJ8`Ol]kLAA1ADTS0
+R6
+32
+R62
+!i10b 1
+R63
+R68
+R69
+!i113 1
+R11
+R12
+Enor_gate
+R0
+R1
+R2
+R3
+Z70 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd
+Z71 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd
+l0
+L5
+Vl4NcfXKNiThldYNcnP5;o2
+!s100 Uz[KW04m>JL2N=<Ae_26A3
+R6
+32
+R62
+!i10b 1
+R63
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd|
+Z73 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 8 nor_gate 0 22 l4NcfXKNiThldYNcnP5;o2
+l14
+L13
+VKa[[7jgRMIb1_iK<QKz2R3
+!s100 kE2E`N:jBl`5f7h@CAkLc3
+R6
+32
+R62
+!i10b 1
+R63
+R72
+R73
+!i113 1
+R11
+R12
+Enor_gate_32
+R0
+R1
+R2
+R3
+Z74 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd
+Z75 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd
+l0
+L5
+V]Ta:lVnBf>1l]Wn18fddR1
+!s100 3mdJRKLJ_1Z1ih<o1WC>A3
+R6
+32
+R62
+!i10b 1
+R63
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd|
+Z77 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 nor_gate_32 0 22 ]Ta:lVnBf>1l]Wn18fddR1
+l14
+L13
+VO2Pz=mOESO?_VkSnX;2[h1
+!s100 4C[N[o;dbNU?^;JAFz8P@0
+R6
+32
+R62
+!i10b 1
+R63
+R76
+R77
+!i113 1
+R11
+R12
+Enor_gate_n
+R0
+R1
+R2
+R3
+Z78 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd
+Z79 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd
+l0
+L5
+V<g@BZYRAl27b0zBj]hAQA3
+!s100 WOgXHNaOaa3V@ZQR9[dBF2
+R6
+32
+R62
+!i10b 1
+R63
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd|
+Z81 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 10 nor_gate_n 0 22 <g@BZYRAl27b0zBj]hAQA3
+l17
+L16
+VhDFW?hDGVTc>S8Vj5`kMU0
+!s100 LLY;[lESSHQFLXI0BM0Lk2
+R6
+32
+R62
+!i10b 1
+R63
+R80
+R81
+!i113 1
+R11
+R12
+Enot_gate
+R0
+R1
+R2
+R3
+Z82 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd
+Z83 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd
+l0
+L5
+Va2jU0gU?ahMAOCzX>hcie3
+!s100 ZFL^eh?^CT8f=9?@;fY^P1
+R6
+32
+Z84 !s110 1447722424
+!i10b 1
+R63
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd|
+Z86 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 8 not_gate 0 22 a2jU0gU?ahMAOCzX>hcie3
+l13
+L12
+VSd>_hU>oSoTbK=><35n<J1
+!s100 0K4o_`::YhV<`CcAlY38V3
+R6
+32
+R84
+!i10b 1
+R63
+R85
+R86
+!i113 1
+R11
+R12
+Enot_gate_32
+R0
+R1
+R2
+R3
+Z87 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd
+Z88 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd
+l0
+L5
+Vbc@1G6Pn;1QIPj9N?dX;R3
+!s100 MlQa>L3D?j3YTME?WDA^I3
+R6
+32
+R84
+!i10b 1
+Z89 !s108 1447722424.000000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd|
+Z91 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 not_gate_32 0 22 bc@1G6Pn;1QIPj9N?dX;R3
+l13
+L12
+Vi3iP4D6`igl`ehm^d4^co2
+!s100 SZ]KSd]7=<``cT7UO3c^32
+R6
+32
+R84
+!i10b 1
+R89
+R90
+R91
+!i113 1
+R11
+R12
+Enot_gate_n
+R0
+R1
+R2
+R3
+Z92 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd
+Z93 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd
+l0
+L5
+VkY>E^h@zmf?^JH:]<>5jN0
+!s100 IMo29cac8Wo2jk<h1@>Y41
+R6
+32
+R84
+!i10b 1
+R89
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd|
+Z95 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 10 not_gate_n 0 22 kY>E^h@zmf?^JH:]<>5jN0
+l16
+L15
+V[?@bjFlkW]?Eigeec4`<]1
+!s100 f1R?C4QOI1W16^[L00fF`1
+R6
+32
+R84
+!i10b 1
+R89
+R94
+R95
+!i113 1
+R11
+R12
+Eor_gate
+R0
+R1
+R2
+R3
+Z96 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd
+Z97 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd
+l0
+L5
+VI0bn=1KP2N19:Qz72M5BR3
+!s100 P4NBKo^c]hz<z`LINQA5?3
+R6
+32
+R84
+!i10b 1
+R89
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd|
+Z99 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 7 or_gate 0 22 I0bn=1KP2N19:Qz72M5BR3
+l14
+L13
+VMWOz`KXoz4S7hV@cG3bY]1
+!s100 imjaYVkITBGK@1]KZ;:O?1
+R6
+32
+R84
+!i10b 1
+R89
+R98
+R99
+!i113 1
+R11
+R12
+Eor_gate_32
+R0
+R1
+R2
+R3
+Z100 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd
+Z101 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd
+l0
+L5
+V62h?8Mlfl`WN<[W?cCkTI0
+!s100 XkkR6QF?Vl4ZJYEZjo;0l2
+R6
+32
+R84
+!i10b 1
+R89
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd|
+Z103 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 10 or_gate_32 0 22 62h?8Mlfl`WN<[W?cCkTI0
+l14
+L13
+Vl1M<aAZJ1D^S3_3^W_^IR3
+!s100 K:BE?onG;^0[1Z5dkfcRR0
+R6
+32
+R84
+!i10b 1
+R89
+R102
+R103
+!i113 1
+R11
+R12
+Eor_gate_n
+R0
+R1
+R2
+R3
+Z104 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd
+Z105 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd
+l0
+L5
+Vzn[6N]nRC@T4X2TN[5l?_0
+!s100 Y[01iFT>714d^L[KJ4VM82
+R6
+32
+Z106 !s110 1447722425
+!i10b 1
+Z107 !s108 1447722425.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd|
+Z109 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 9 or_gate_n 0 22 zn[6N]nRC@T4X2TN[5l?_0
+l17
+L16
+V92IH<JT]B^;>eHZBo@=fg0
+!s100 X0T0eOJ7Mi7@HZjHoZO6:3
+R6
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R11
+R12
+Esram
+R0
+R23
+Z110 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z111 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z112 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z113 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram.vhd
+Z114 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/sram.vhd
+l0
+L13
+Va9@f`o38dAk^M>^d=XA3P0
+!s100 dFa2^0bCm0FVM`Q9B=_f60
+R6
+32
+R106
+!i10b 1
+R107
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram.vhd|
+Z116 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R23
+R110
+R111
+R112
+R1
+R2
+DEx4 work 4 sram 0 22 a9@f`o38dAk^M>^d=XA3P0
+l28
+L27
+VEQP@:ONXo?:HOV02J6NZ93
+!s100 ;NlLnEhi3^n7W2I^9UJ2d3
+R6
+32
+R106
+!i10b 1
+R107
+R115
+R116
+!i113 1
+R11
+R12
+Esyncram
+R0
+R23
+R110
+R111
+R112
+R1
+R2
+R3
+Z117 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd
+Z118 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd
+l0
+L12
+V9SF6a]cFn[EkodD;4OT_h0
+!s100 aFnLlL1@m415d6em?MG^21
+R6
+32
+R106
+!i10b 1
+R107
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd|
+Z120 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R23
+R110
+R111
+R112
+R1
+R2
+DEx4 work 7 syncram 0 22 9SF6a]cFn[EkodD;4OT_h0
+l28
+L27
+V`V1W?_S89^YMz7nNZIMVB1
+!s100 W:<cVUTVPgIfz60fOOgQ20
+R6
+32
+R106
+!i10b 1
+R107
+R119
+R120
+!i113 1
+R11
+R12
+Exnor_gate
+R0
+R1
+R2
+R3
+Z121 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd
+Z122 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd
+l0
+L5
+V64cWg<O7h^DkP_G;TSfFb3
+!s100 VMF9C>DP[5;VOiN5[aESd3
+R6
+32
+R106
+!i10b 1
+R107
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd|
+Z124 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 9 xnor_gate 0 22 64cWg<O7h^DkP_G;TSfFb3
+l14
+L13
+VQi:Iak;D@9C9]:NzK;74n0
+!s100 ]_>oDFZN:PJ[HJie3IcK81
+R6
+32
+R106
+!i10b 1
+R107
+R123
+R124
+!i113 1
+R11
+R12
+Exnor_gate_32
+R0
+R1
+R2
+R3
+Z125 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd
+Z126 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd
+l0
+L5
+Vb;[YHU0[33T3iW>0faTEM1
+!s100 7TK64^z14nVXPK]cWgS3=0
+R6
+32
+R106
+!i10b 1
+R107
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd|
+Z128 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 12 xnor_gate_32 0 22 b;[YHU0[33T3iW>0faTEM1
+l14
+L13
+Vj6oobg=Md_S?TNUXnEgQS1
+!s100 l]IKGhY:hL2aDUPV;>SB?0
+R6
+32
+R106
+!i10b 1
+R107
+R127
+R128
+!i113 1
+R11
+R12
+Exnor_gate_n
+R0
+R1
+R2
+R3
+Z129 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd
+Z130 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd
+l0
+L5
+V4EA6^j0IRIDB16NETgY=Y2
+!s100 UCY45ZALOU6@I^4jz3eW33
+R6
+32
+R106
+!i10b 1
+R107
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd|
+Z132 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 xnor_gate_n 0 22 4EA6^j0IRIDB16NETgY=Y2
+l17
+L16
+VN80JhF1hQ^[dBKNd[M=fT3
+!s100 dDail5hL?0zna@N:=D@8b2
+R6
+32
+R106
+!i10b 1
+R107
+R131
+R132
+!i113 1
+R11
+R12
+Exor_gate
+R0
+R1
+R2
+R3
+Z133 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd
+Z134 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd
+l0
+L5
+V>:0of;3?<Db:J2P]bLRRE1
+!s100 K_6H3f?zAK@4`dnkC2j[K2
+R6
+32
+Z135 !s110 1447722426
+!i10b 1
+Z136 !s108 1447722426.000000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd|
+Z138 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 8 xor_gate 0 22 >:0of;3?<Db:J2P]bLRRE1
+l14
+L13
+V?CjQI0YRXW2fDDWch@MCZ2
+!s100 e;mL^F4ENl;O2f_Ae@3MU2
+R6
+32
+R135
+!i10b 1
+R136
+R137
+R138
+!i113 1
+R11
+R12
+Exor_gate_32
+R0
+R1
+R2
+R3
+Z139 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd
+Z140 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd
+l0
+L5
+VGbk[]dcIS]^URh4W`1n2k2
+!s100 IY:zIdH0EdL@PUV4ISe5M0
+R6
+32
+R135
+!i10b 1
+R136
+Z141 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd|
+Z142 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 11 xor_gate_32 0 22 Gbk[]dcIS]^URh4W`1n2k2
+l14
+L13
+VzI^J^MZ^38iCSSjiao;;]1
+!s100 [@^nmEj?djZ;8jS41JD]@3
+R6
+32
+R135
+!i10b 1
+R136
+R141
+R142
+!i113 1
+R11
+R12
+Exor_gate_n
+R0
+R1
+R2
+R3
+Z143 8C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd
+Z144 FC:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd
+l0
+L5
+VM9]8CicZMP;K]3l`m2zdS3
+!s100 LPoPXbzH8=CBB]^6S5Unf1
+R6
+32
+R135
+!i10b 1
+R136
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd|
+Z146 !s107 C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+Z147 DEx4 work 10 xor_gate_n 0 22 M9]8CicZMP;K]3l`m2zdS3
+l17
+L16
+Z148 V_NK2YA8924hnGVNBI=DYK3
+Z149 !s100 29oXRe`]fm02Bce^Do[3m2
+R6
+32
+R135
+!i10b 1
+R136
+R145
+R146
+!i113 1
+R11
+R12
