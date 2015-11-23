@@ -6,7 +6,6 @@ use ieee.std_logic_1164.all;
 
 entity Data_Memory is
 	port (
-		clock_input : in std_logic;
 		cs : in std_logic;
 		oe : in std_logic;
 		we : in std_logic;
@@ -18,8 +17,21 @@ entity Data_Memory is
 end Data_Memory;
 
 architecture Structure of Data_Memory is
+signal ctrl_bus : std_logic_vector(2 downto 0);
 begin
-	sram_map : sram
-	generic map (mem_file => "sort_corrected_branch.dat")
+	sram_map : sram generic map (mem_file => "sort_corrected_branch.dat")
 		port map (cs => cs, oe => oe, we => we, addr => address, din => data_input, dout => data_output);
+	cs  <=  ctrl_bus(2);
+    	oe  <=  ctrl_bus(1);
+    	we  <=  ctrl_bus(0);
+	process
+        	variable  vaddr  :  integer  range  0  to  2147483647;
+    		begin
+        		ctrl_bus  <=  "110";
+        		for  vaddr  in  4194336  to  4194376  loop
+            			addr  <=  std_logic_vector(to_unsigned(vaddr,  32));
+            			wait  for  5  ns;   
+			end loop;
+   		wait;
+    	end  process;
 end Structure;
