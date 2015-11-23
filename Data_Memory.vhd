@@ -1,3 +1,4 @@
+
 library ieee;
 use work.eecs361_gates.all;
 use work.eecs361.all;
@@ -21,3 +22,5 @@ begin
 	sram_map : sram generic map (mem_file => "sort_corrected_branch.dat")
 		port map (cs => cs, oe => oe, we => we, addr => address, din => data_input, dout => data_output);
 end Structure;
+
+

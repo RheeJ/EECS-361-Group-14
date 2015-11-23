@@ -1,0 +1,38 @@
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.eecs361_gates.all;
+use work.eecs361.all;
+
+entity ins_mem_demo is
+  port (
+    dout : out std_logic_vector (31 downto 0)
+  );
+end ins_mem_demo;
+
+architecture structural of inst_mem is
+
+component inst_mem is
+  port (
+    addr : in  std_logic_vector (31 downto 0);
+	  inst : out std_logic_vector (31 downto 0)
+  );
+end component;
+
+signal addr : std_logic_vector(31 downto 0) := (others=>'0');
+
+begin
+  inst_memory_map : inst_mem
+       port map (addr, dout);
+
+process 
+    variable vaddr : integer range 0 to 2147483647;
+    begin
+    for vaddr in 4194336 to 4194376 loop
+      addr <= std_logic_vector(to_unsigned(vaddr, 32));
+      wait for 5 ns;
+    end loop;
+    wait;
+end process;
+end;

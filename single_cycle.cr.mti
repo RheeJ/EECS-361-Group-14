@@ -1,0 +1,606 @@
+C:/altera/14.0/firstGroupSingleCycle/alu32_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/alu32_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu32_tb
+-- Compiling architecture structural of alu32_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/or_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/or_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_32
+-- Compiling architecture dataflow of or_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dm_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dm_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading package NUMERIC_STD
+-- Compiling entity dm_test
+-- Compiling architecture structural of dm_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/pc_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/pc_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_tb
+-- Compiling architecture struct of pc_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dff.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dff.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture behavioral of dff
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dffr_a_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dffr_a_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dffr_a_test
+-- Compiling architecture behavioral of dffr_a_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/sram_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/sram_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity sram_test
+-- Compiling architecture behavioral of sram_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/controlSignals.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/controlSignals.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity controlSignals
+-- Compiling architecture structural of controlSignals
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/Full_adder.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/Full_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity Full_Adder
+-- Compiling architecture Full_Adder_STRUCT of Full_Adder
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xnor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_32
+-- Compiling architecture dataflow of xnor_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/sram.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/sram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity sram
+-- Compiling architecture behavioral of sram
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/and_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/and_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xnor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_n
+-- Compiling architecture dataflow of xnor_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/eecs361_gates.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package eecs361_gates
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_n
+-- Compiling architecture dataflow of xor_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nand_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/instruction_decoder.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/instruction_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity instruction_decoder
+-- Compiling architecture structural of instruction_decoder
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dataPath.vhd {2 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dataPath.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity DataPath
+-- Compiling architecture struct of DataPath
+** Warning: [4] C:/altera/14.0/firstGroupSingleCycle/dataPath.vhd(241): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/altera/14.0/firstGroupSingleCycle/dataPath.vhd(243): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/pc_demo.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/pc_demo.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_demo
+-- Compiling architecture structural of pc_demo
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dff_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dff_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dff_test
+-- Compiling architecture behavioral of dff_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/fulladder_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/fulladder_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder_32
+-- Compiling architecture behavioral of fulladder_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dec_n_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dec_n_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dec_n_test
+-- Compiling architecture behavioral of dec_n_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/next_inst_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/next_inst_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity next_inst_tb
+-- Compiling architecture struct of next_inst_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/mux_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/mux_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_32
+-- Compiling architecture structural of mux_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/alu32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/alu32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity alu32bit
+-- Compiling architecture structural of alu32bit
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/xor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture dataflow of xor_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nand_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nand_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture dataflow of nand_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dffr.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dffr.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr
+-- Compiling architecture behavioral of dffr
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/alu1.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/alu1.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity alu1bit
+-- Compiling architecture behaviour of alu1bit
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/fulladder.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/fulladder.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity fulladder
+-- Compiling architecture structural of fulladder
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_32
+-- Compiling architecture dataflow of xor_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nand_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/mux_n_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/mux_n_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_n_test
+-- Compiling architecture behavioral of mux_n_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture dataflow of nor_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/and_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/and_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_n
+-- Compiling architecture dataflow of and_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dec_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dec_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/next_address_logic.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/next_address_logic.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity next_address_logic
+-- Compiling architecture struct of next_address_logic
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/eecs361.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/eecs361.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling package eecs361
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/not_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/not_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_n
+-- Compiling architecture dataflow of not_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/alu1_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/alu1_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu1_tb
+-- Compiling architecture structural of alu1_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/Data_Memory.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/Data_Memory.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading package NUMERIC_STD
+-- Compiling entity Data_Memory
+-- Compiling architecture Structure of Data_Memory
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/reg32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/reg32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity reg32
+-- Compiling architecture structural of reg32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/next_inst.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/next_inst.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity next_inst
+-- Compiling architecture struct of next_inst
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/syncram.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/syncram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity syncram
+-- Compiling architecture behavioral of syncram
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/data_mem.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/data_mem.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading package NUMERIC_STD
+-- Compiling entity data_mem
+-- Compiling architecture structure of data_mem
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/sign_ext.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/sign_ext.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity sign_ext
+-- Compiling architecture struct of sign_ext
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dffr_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dffr_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dffr_test
+-- Compiling architecture behavioral of dffr_test
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/not_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/not_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+-- Compiling architecture dataflow of not_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/dffr_a.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/dffr_a.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr_a
+-- Compiling architecture behavioral of dffr_a
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_32
+-- Compiling architecture dataflow of nor_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/nor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_n
+-- Compiling architecture dataflow of nor_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/data_mem_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/data_mem_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity data_mem_tb
+-- Compiling architecture struct of data_mem_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/not_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/not_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_32
+-- Compiling architecture dataflow of not_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/or_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/or_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_n
+-- Compiling architecture dataflow of or_gate_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/inst_memo_demo.vhd {0 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/inst_memo_demo.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity ins_mem_demo
+-- Compiling architecture structural of inst_mem
+-- Loading entity inst_mem
+** Error: C:/altera/14.0/firstGroupSingleCycle/inst_memo_demo.vhd(23): (vcom-1294) Declaration with designator "addr" already exists in this region.
+** =====> Prior declaration of "addr" is at C:/altera/14.0/firstGroupSingleCycle/instMem.vhd(9).
+
+** Error: C:/altera/14.0/firstGroupSingleCycle/inst_memo_demo.vhd(27): (vcom-1136) Unknown identifier "dout".
+
+** Error: C:/altera/14.0/firstGroupSingleCycle/inst_memo_demo.vhd(38): VHDL Compiler exiting
+
+} {12.0 13.0 15.0 16.0 17.0 18.0} {}} C:/altera/14.0/firstGroupSingleCycle/xnor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/xnor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate
+-- Compiling architecture dataflow of xnor_gate
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/Extender.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/Extender.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity Extender
+-- Compiling architecture struct of Extender
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/reg32_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/reg32_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity reg32_tb
+-- Compiling architecture structural of reg32_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/mux.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux
+-- Compiling architecture structural of mux
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/pc.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/pc.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc
+-- Compiling architecture struct of pc
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/adder_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/adder_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder_32
+-- Compiling architecture struct of adder_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/instMem.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/instMem.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity inst_mem
+-- Compiling architecture structural of inst_mem
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/next_address_logic_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/next_address_logic_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity next_address_logic_tb
+-- Compiling architecture struct of next_address_logic_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/controlSignals_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/controlSignals_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity controlSignals_tb
+-- Compiling architecture structural of controlSignals_tb
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/and_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/and_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/mux_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/mux_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
+} {} {}} C:/altera/14.0/firstGroupSingleCycle/or_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/firstGroupSingleCycle/or_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
+
+} {} {}}
