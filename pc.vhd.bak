@@ -24,6 +24,7 @@ component dffr_a is
   );
 end component;
 signal zero : std_logic_vector(31 downto 0);
+signal output1 : std_logic_vector(31 downto 0);
 begin
 zero <= X"00400020";
 
@@ -31,15 +32,18 @@ pc_loop : for i in 0 to 31 generate
       dffr_a_map : dffr_a port map (
                           clk => clk,
                           arst => rst,
-                          aload => '0',
+                          aload => rst,
                           adata => zero(i),
                           d => input(i),
                           enable => clk,
-                          q => output(i)
+                          q => output1(i)
                       
                         );
    end generate pc_loop;
 
+--output1 <= X"00400020" when rst ='1' else output1;
+
+output <= output1;
 
 --p_c: dffr_32bit_PC port map(clk=>clk, 
 --		     d=>input, 

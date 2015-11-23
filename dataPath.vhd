@@ -310,7 +310,7 @@ alu32bit_map : alu32bit port map
 --------------------------------Memory--------------------------
 --Data_Memory
 data_mem_map : Data_Memory port map
-             (cs=>clk_lw, oe=>memRead, we=>memWr ,address=>result, data_input=>busB  ,  
+             (cs=>'1', oe=>memRead, we=>memWr ,address=>result, data_input=>busB  ,  
 			 data_output=>data_output);
 
 -- Mux2 alu resutl and mem file output

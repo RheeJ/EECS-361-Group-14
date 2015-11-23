@@ -31,8 +31,8 @@ zero <= X"00400020";
 pc_loop : for i in 0 to 31 generate
       dffr_a_map : dffr_a port map (
                           clk => clk,
-                          arst => rst,
-                          aload => '0',
+                          arst => '0',
+                          aload => rst,
                           adata => zero(i),
                           d => input(i),
                           enable => clk,
@@ -40,6 +40,8 @@ pc_loop : for i in 0 to 31 generate
                       
                         );
    end generate pc_loop;
+
+--output1 <= X"00400020" when rst ='1' else output1;
 
 output <= output1;
 

@@ -12,13 +12,33 @@ architecture struct of DataPath is
 --------------------------------------------------------------------
 
 
+--component inst_mem is
+--port(
+--Adr: in std_logic_vector(31 downto 0); 
+--opcode, func: out std_logic_vector(5 downto 0);
+--Rs, Rt, Rd, shamt: out std_logic_vector(4 downto 0);
+--imm16: out std_logic_vector(15 downto 0));
+--end component;
+
 component inst_mem is
-port(
-Adr: in std_logic_vector(31 downto 0); 
-opcode, func: out std_logic_vector(5 downto 0);
-Rs, Rt, Rd, shamt: out std_logic_vector(4 downto 0);
-imm16: out std_logic_vector(15 downto 0));
+  port(
+ addr : in  std_logic_vector (31 downto 0); 
+	inst : out std_logic_vector (31 downto 0));
 end component;
+
+component instruction_decoder is
+  port (
+    x      : in  std_logic_vector (31 downto 0);
+	opcode : out std_logic_vector ( 5 downto 0);
+	rs     : out std_logic_vector ( 4 downto 0);
+	rt     : out std_logic_vector ( 4 downto 0);
+	rd     : out std_logic_vector ( 4 downto 0);
+	shamt  : out std_logic_vector ( 4 downto 0);
+	funct  : out std_logic_vector ( 5 downto 0);
+	addr   : out std_logic_vector (15 downto 0)
+  );
+end component;
+    
 
 component next_address_logic is
 port (
@@ -160,6 +180,9 @@ end component;
 signal addr_inst : std_logic_vector(31 downto 0);
 
 --inst_mem
+signal instruc : std_logic_vector(31 downto 0);
+-------------------------Instruction Decode---------------------
+
 signal opcode, funct    : std_logic_vector (5 downto 0);
 signal rs,rt,rd       : std_logic_vector(4 downto 0);
 
@@ -167,7 +190,6 @@ signal shamt       : std_logic_vector(4 downto 0);
 
 signal imm16       : std_logic_vector(15 downto 0);
 
--------------------------Instruction Decode---------------------
 
 --controlSignals
 signal aluop     : std_logic_vector(2 downto 0);
@@ -238,11 +260,16 @@ next_logic : next_address_logic port map(clk =>clk_tb,
               
 
 --instruction_memory
+--inst_mem_map : inst_mem port map
+--             (addr_inst, opcode, funct, rs,rt,rd, shamt, imm16);
+
 inst_mem_map : inst_mem port map
-             (addr_inst, opcode, funct, rs,rt,rd, shamt, imm16);
-
-
+             (addr_inst, instruc);
 -------------------------Instruction Decode---------------------
+
+inst_decoder : instruction_decoder port map( instruc, opcode, rs,rt,rd,shamt,funct, imm16);
+
+
 
 --controlSignals
 con_sig_map : controlSignals port map
