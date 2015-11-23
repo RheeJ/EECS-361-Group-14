@@ -1,0 +1,387 @@
+C:/altera/14.0/eecs361FirstGroup/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_n
+-- Compiling architecture dataflow of nor_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/alu32_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/alu32_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu32_tb
+-- Compiling architecture structural of alu32_tb
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/or_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/or_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_32
+-- Compiling architecture dataflow of or_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/not_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/not_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_32
+-- Compiling architecture dataflow of not_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/or_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/or_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_n
+-- Compiling architecture dataflow of or_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/not_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/not_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_n
+-- Compiling architecture dataflow of not_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/mux_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/mux_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_32
+-- Compiling architecture structural of mux_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/alu32.vhd {0 {vcom -work work -2002 -explicit {C:\altera\14.0\eecs361FirstGroup\alu32.vhd}
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity alu32bit
+-- Compiling architecture structural of alu32bit
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(130): (vcom-1294) Declaration with designator "shift_rest_follower" already exists in this region.
+** =====> Prior declaration of "shift_rest_follower" is at C:\altera\14.0\eecs361FirstGroup\alu32.vhd(118).
+
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(131): (vcom-1294) Declaration with designator "shifting_b" already exists in this region.
+** =====> Prior declaration of "shifting_b" is at C:\altera\14.0\eecs361FirstGroup\alu32.vhd(119).
+
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(236): Symbol "shift_result1" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(239): Symbol "mux_srl_map11" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(241): Symbol "shift_result2" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(244): Symbol "mux_srl_map21" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(246): Symbol "shift_result3" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(249): Symbol "mux_srl_map31" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(251): Symbol "shift_result4" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(254): Symbol "mux_srl_map41" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(256): Symbol "shift_result5" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(259): Symbol "mux_srl_map51" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(262): Symbol "mux_srl_rest1" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(264): Symbol "shift_result6" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(267): Symbol "mux_srl_map61" has already been declared in this region.
+** Error: C:\altera\14.0\eecs361FirstGroup\alu32.vhd(325): VHDL Compiler exiting
+
+} {10.0 11.0 13.0 14.0 16.0 30.0} {}} C:/altera/14.0/eecs361FirstGroup/xnor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xnor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate
+-- Compiling architecture dataflow of xnor_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/alu1_tb.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/alu1_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu1_tb
+-- Compiling architecture structural of alu1_tb
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dff.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dff.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture behavioral of dff
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/xor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture dataflow of xor_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/nand_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nand_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture dataflow of nand_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dffr_a_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dffr_a_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dffr_a_test
+-- Compiling architecture behavioral of dffr_a_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/sram_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/sram_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity sram_test
+-- Compiling architecture behavioral of sram_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/mux.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux
+-- Compiling architecture structural of mux
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dffr.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dffr.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr
+-- Compiling architecture behavioral of dffr
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xnor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_32
+-- Compiling architecture dataflow of xnor_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/sram.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/sram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity sram
+-- Compiling architecture behavioral of sram
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/alu1.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/alu1.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity alu1bit
+-- Compiling architecture behaviour of alu1bit
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/and_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/and_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xnor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_n
+-- Compiling architecture dataflow of xnor_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_32
+-- Compiling architecture dataflow of xor_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/syncram.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/syncram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity syncram
+-- Compiling architecture behavioral of syncram
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nand_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/eecs361_gates.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package eecs361_gates
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/xor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_n
+-- Compiling architecture dataflow of xor_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nand_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/mux_n_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/mux_n_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_n_test
+-- Compiling architecture behavioral of mux_n_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/nor_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture dataflow of nor_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/mux_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/mux_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/and_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/and_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dff_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dff_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dff_test
+-- Compiling architecture behavioral of dff_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/and_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/and_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_n
+-- Compiling architecture dataflow of and_gate_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dec_n_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dec_n_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dec_n_test
+-- Compiling architecture behavioral of dec_n_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/or_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/or_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/not_gate.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/not_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+-- Compiling architecture dataflow of not_gate
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dffr_test.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dffr_test.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dffr_test
+-- Compiling architecture behavioral of dffr_test
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dec_n.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dec_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/eecs361.vhd {1 {vcom -work work -2002 -explicit {C:\altera\14.0\eecs361FirstGroup\eecs361.vhd}
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling package eecs361
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/dffr_a.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/dffr_a.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr_a
+-- Compiling architecture behavioral of dffr_a
+
+} {} {}} C:/altera/14.0/eecs361FirstGroup/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/altera/14.0/eecs361FirstGroup/nor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_32
+-- Compiling architecture dataflow of nor_gate_32
+
+} {} {}}
