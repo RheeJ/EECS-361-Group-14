@@ -1,4 +1,15 @@
-C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd
+C:/Users/me/Documents/GitHub/EECS-361-Group-14/instMem.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/instMem.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity inst_mem
+-- Compiling architecture structural of inst_mem
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_32.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -6,32 +17,119 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity xor_gate_32
 -- Compiling architecture dataflow of xor_gate_32
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/inst_memo_demo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/inst_memo_demo.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Loading package std_logic_arith
--- Loading package STD_LOGIC_UNSIGNED
--- Loading package std_logic_textio
 -- Loading package NUMERIC_STD
--- Compiling entity syncram
--- Compiling architecture behavioral of syncram
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity ins_mem_demo
+-- Compiling architecture structural of inst_mem
+-- Loading entity inst_mem
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity or_gate_32
--- Compiling architecture dataflow of or_gate_32
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling package eecs361_gates
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n_test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_n_test
+-- Compiling architecture behavioral of mux_n_test
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff_test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dff_test
+-- Compiling architecture behavioral of dff_test
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_n
+-- Compiling architecture dataflow of and_gate_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dm_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dm_test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading package NUMERIC_STD
+-- Compiling entity dm_test
+-- Compiling architecture structural of dm_test
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_address_logic.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_address_logic.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity next_address_logic
+-- Compiling architecture struct of next_address_logic
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture dataflow of nand_gate
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/Data_Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/Data_Memory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Loading package NUMERIC_STD
+-- Compiling entity Data_Memory
+-- Compiling architecture Structure of Data_Memory
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/fulladder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/fulladder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity fulladder
+-- Compiling architecture structural of fulladder
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/control_unit.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/control_unit.vhdl
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity control_unit
+-- Compiling architecture structural of control_unit
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_n.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -41,39 +139,13 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity not_gate_n
 -- Compiling architecture dataflow of not_gate_n
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_address_logic_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_address_logic_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity nand_gate_n
--- Compiling architecture dataflow of nand_gate_n
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package eecs361_gates
--- Loading package eecs361
--- Compiling entity mux_32
--- Compiling architecture structural of mux_32
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity mux_n
--- Compiling architecture behavioral of mux_n
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity and_gate_32
--- Compiling architecture dataflow of and_gate_32
+-- Compiling entity next_address_logic_tb
+-- Compiling architecture struct of next_address_logic_tb
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram_demo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram_demo.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -86,6 +158,22 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity sram_demo
 -- Compiling architecture structural of sram_demo
 
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/pc_demo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/pc_demo.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_demo
+-- Compiling architecture structural of pc_demo
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -94,22 +182,116 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity xor_gate
 -- Compiling architecture dataflow of xor_gate
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity or_gate
--- Compiling architecture dataflow of or_gate
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/controlSignals.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/controlSignals.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
--- Compiling entity dec_n
--- Compiling architecture behavioral of dec_n
+-- Loading package eecs361_gates
+-- Compiling entity controlSignals
+-- Compiling architecture structural of controlSignals
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_32
+-- Compiling architecture dataflow of nor_gate_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_32
+-- Compiling architecture dataflow of not_gate_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/data_mem_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/data_mem_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity data_mem_tb
+-- Compiling architecture struct of data_mem_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture dataflow of nor_gate
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/pc_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/pc_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_tb
+-- Compiling architecture struct of pc_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux
+-- Compiling architecture structural of mux
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_n
+-- Compiling architecture dataflow of nor_gate_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_inst.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_inst.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity next_inst
+-- Compiling architecture struct of next_inst
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361_gates.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package eecs361_gates
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_32
+-- Compiling architecture structural of mux_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dffr_test
+-- Compiling architecture behavioral of dffr_test
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/eecs361.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -119,13 +301,13 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package eecs361_gates
 -- Compiling package eecs361
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/pc.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\me\Documents\GitHub\EECS-361-Group-14\pc.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity dffr
--- Compiling architecture behavioral of dffr
+-- Compiling entity pc
+-- Compiling architecture struct of pc
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_32.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -147,38 +329,6 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity sram
 -- Compiling architecture behavioral of sram
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_32.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity nor_gate_32
--- Compiling architecture dataflow of nor_gate_32
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity and_gate
--- Compiling architecture dataflow of and_gate
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate_32.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity not_gate_32
--- Compiling architecture dataflow of not_gate_32
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity nand_gate_32
--- Compiling architecture dataflow of nand_gate_32
-
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_n.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -186,14 +336,6 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package std_logic_1164
 -- Compiling entity or_gate_n
 -- Compiling architecture dataflow of or_gate_n
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity xor_gate_n
--- Compiling architecture dataflow of xor_gate_n
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -203,15 +345,33 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity xnor_gate
 -- Compiling architecture dataflow of xnor_gate
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu32.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity nor_gate
--- Compiling architecture dataflow of nor_gate
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity alu32bit
+-- Compiling architecture structural of alu32bit
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dm_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dm_test.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/fulladder_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/fulladder_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder_32
+-- Compiling architecture behavioral of fulladder_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu1_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu1_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu1_tb
+-- Compiling architecture structural of alu1_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/data_mem.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/data_mem.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -219,8 +379,8 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package eecs361_gates
 -- Loading package eecs361
 -- Loading package NUMERIC_STD
--- Compiling entity dm_test
--- Compiling architecture structural of dm_test
+-- Compiling entity data_mem
+-- Compiling architecture structure of data_mem
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dff.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -230,13 +390,14 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity dff
 -- Compiling architecture behavioral of dff
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/and_gate_n.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/sign_ext.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/sign_ext.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity and_gate_n
--- Compiling architecture dataflow of and_gate_n
+-- Loading package eecs361_gates
+-- Compiling entity sign_ext
+-- Compiling architecture struct of sign_ext
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/not_gate.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -246,34 +407,166 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity not_gate
 -- Compiling architecture dataflow of not_gate
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity nand_gate
--- Compiling architecture dataflow of nand_gate
-
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/Data_Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/Data_Memory.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a_test.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package eecs361_gates
 -- Loading package eecs361
+-- Compiling entity dffr_a_test
+-- Compiling architecture behavioral of dffr_a_test
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_inst_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/next_inst_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity next_inst_tb
+-- Compiling architecture struct of next_inst_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_n
+-- Compiling architecture dataflow of xnor_gate_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/or_gate_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_32
+-- Compiling architecture dataflow of or_gate_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/syncram.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
 -- Loading package NUMERIC_STD
--- Compiling entity Data_Memory
--- Compiling architecture Structure of Data_Memory
+-- Compiling entity syncram
+-- Compiling architecture behavioral of syncram
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/mux.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/instruction_decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/instruction_decoder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity instruction_decoder
+-- Compiling architecture structural of instruction_decoder
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/Extender.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/Extender.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity Extender
+-- Compiling architecture struct of Extender
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/controlSignals_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/controlSignals_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package eecs361_gates
 -- Loading package eecs361
--- Compiling entity mux
--- Compiling architecture structural of mux
+-- Compiling entity controlSignals_tb
+-- Compiling architecture structural of controlSignals_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/reg32_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/reg32_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity reg32_tb
+-- Compiling architecture structural of reg32_tb
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/Full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/Full_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity Full_Adder
+-- Compiling architecture Full_Adder_STRUCT of Full_Adder
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr
+-- Compiling architecture behavioral of dffr
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity alu1bit
+-- Compiling architecture behaviour of alu1bit
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/adder_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/adder_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder_32
+-- Compiling architecture struct of adder_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nand_gate_32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xor_gate_n.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_n
+-- Compiling architecture dataflow of xor_gate_n
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dec_n_test.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity dec_n_test
+-- Compiling architecture behavioral of dec_n_test
 
 } {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/dffr_a.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -293,20 +586,35 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity ALU
 -- Compiling architecture Structure of ALU
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/xnor_gate_n.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram_test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/sram_test.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity xnor_gate_n
--- Compiling architecture dataflow of xnor_gate_n
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity sram_test
+-- Compiling architecture behavioral of sram_test
 
-} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/nor_gate_n.vhd
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/reg32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/reg32.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity nor_gate_n
--- Compiling architecture dataflow of nor_gate_n
+-- Loading package NUMERIC_STD
+-- Loading package eecs361_gates
+-- Compiling entity reg32
+-- Compiling architecture structural of reg32
+
+} {} {}} C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu32_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/me/Documents/GitHub/EECS-361-Group-14/alu32_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu32_tb
+-- Compiling architecture structural of alu32_tb
 
 } {} {}}

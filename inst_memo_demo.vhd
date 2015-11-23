@@ -15,22 +15,22 @@ architecture structural of inst_mem is
 
 component inst_mem is
   port (
-    addr : in  std_logic_vector (31 downto 0);
+    	  addr : in  std_logic_vector (31 downto 0);
 	  inst : out std_logic_vector (31 downto 0)
   );
 end component;
 
-signal addr : std_logic_vector(31 downto 0) := (others=>'0');
-
+signal address : std_logic_vector(31 downto 0) := (others=>'0');
+signal dout : std_logic_vector(31 downto 0);
 begin
   inst_memory_map : inst_mem
-       port map (addr, dout);
+       port map (address, dout);
 
 process 
     variable vaddr : integer range 0 to 2147483647;
     begin
     for vaddr in 4194336 to 4194376 loop
-      addr <= std_logic_vector(to_unsigned(vaddr, 32));
+      address <= std_logic_vector(to_unsigned(vaddr, 32));
       wait for 5 ns;
     end loop;
     wait;

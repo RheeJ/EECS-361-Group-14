@@ -30,7 +30,7 @@ component Data_Memory is
 	);
 end component Data_Memory;
 begin
-	dm_map : Data_Memory port map (cs => c, oe => o, we => w, address => addr, data_input => di, data_output => do);
+	dm_map : Data_Memory port map (cs => c, oe => o, we => w, address => addr, data_input => di, data_output => dout);
 	c <= ctrl_bus(2);
 	o <= ctrl_bus(1);
 	w <= ctrl_bus(0);
