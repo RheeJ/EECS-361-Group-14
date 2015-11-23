@@ -41,6 +41,10 @@ begin
 			addr <= std_logic_vector(to_unsigned(vaddr, 32));
 			wait for 5 ns;
 		end loop;
+		ctrl_bus <= "111";
+		addr <= std_logic_vector(to_unsigned(4194336, 32));
+		di <= X"00000000";
+		wait for 5 ns;
 		wait;
 	end process;
 end; 
